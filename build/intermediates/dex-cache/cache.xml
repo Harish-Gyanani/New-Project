@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\HarishDownloads\AndroidSwipeLayout-master\ExampleNotificationLollipop\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b387b6cc4c964a63d8a983a98542c6b35a427384">
+        <dex dex="D:\HarishDownloads\AndroidSwipeLayout-master\ExampleNotificationLollipop\app\build\intermediates\pre-dexed\debug\classes_c74096cc9a8e6b7738c45709cbe664d38c8b8c8d.jar" />
+    </item>
+
+</items>
